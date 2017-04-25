@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context="com.example.administrator.mybezire.MainActivity">
 
-    <com.example.administrator.mybezire.PathView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+   <com.example.administrator.mybezire.PathView2
+       android:layout_width="match_parent"
+       android:layout_height="match_parent" />
 
 </LinearLayout>

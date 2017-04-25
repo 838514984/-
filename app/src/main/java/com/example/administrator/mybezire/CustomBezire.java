@@ -54,7 +54,6 @@ public class CustomBezire extends View {
         canvas.drawCircle(gudingX1,gudingY1,30,paint);
         canvas.drawCircle(gudingX2,gudingY2,30,paint);
         canvas.drawCircle(pointX,pointY,30,paint);
-
         paint.setColor(Color.GRAY);
         canvas.drawLine(gudingX1,gudingY1,pointX,pointY,paint);
         canvas.drawLine(gudingX2,gudingY2,pointX,pointY,paint);
